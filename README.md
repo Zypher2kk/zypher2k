@@ -53,7 +53,7 @@
 
 <div align="center">
   <a href="https://github.com/Zypher2kk">
-    <img src="https://img.shields.io/badge/Visitar%20zypher2k-ff69b4?style=for-the-badge&logo=github" alt="Git zypher">
+    <img src="https://img.shields.io/badge/Visitar%20zypher2k-50CF01?style=for-the-badge&logo=github" alt="Git zypher">
   </a>
 </div>
 
