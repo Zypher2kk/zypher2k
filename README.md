@@ -39,7 +39,7 @@
 </p>
 
 <p align="center">
-  <img title="Autor" src="https://img.shields.io/badge/Autor-@zypher2k-green.svg?style=for-the-badge&logo=github">
+  <img title="Autor" src="https://img.shields.io/badge/Autor-@zypher2k-50CF01?style=for-the-badge&logo=github">
 </p>
 
 <div align="center">
