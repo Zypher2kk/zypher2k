@@ -35,7 +35,7 @@
 </h1>
 
 <p align="center">
-  <a href="#"><img title="BOT-MULTI-DEVICE" src="https://img.shields.io/badge/BOT•MULTI•DEVICE-blueviolet?&style=for-the-badge"></a>
+  <a href="#"><img title="BOT-MULTI-DEVICE" src="https://img.shields.io/badge/BOT•MULTI•DEVICE-006400?&style=for-the-badge"></a>
 </p>
 
 <p align="center">
