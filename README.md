@@ -44,7 +44,7 @@
 
 <div align="center">
   <a href="https://chat.whatsapp.com/K0wKO6s7q4177RgwW02H1x">
-    <img src="https://img.shields.io/badge/Grupo%20do%20WhatsApp-green.svg?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Grupo do WhatsApp">
+    <img src="https://img.shields.io/badge/Grupo%20do%20WhatsApp-white.svg?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Grupo do WhatsApp">
   </a>
   <a href="https://whatsapp.com/channel/0029VbBrBFO2P59nBoG7iq3T">
     <img src="https://img.shields.io/badge/Canal%20do%20WhatsApp-006400?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Canal do Whatsapp">
