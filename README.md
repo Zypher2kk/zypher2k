@@ -1,4 +1,7 @@
 <div align="center">
+  <img src="https://files.catbox.moe/xucs4u.jpg" alt="Banner" width="100%" style="max-width: 900px; border-radius: 10px;">
+</div>
+<div align="center">
   <table>
     <tr>
       <td align="right" valign="middle" style="padding-right: 15px;">
